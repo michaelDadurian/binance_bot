@@ -1,0 +1,22 @@
+{
+  "name": "binance_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelDadurian/binance_bot.git"
+  },
+  "author": "Michael Dadurian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelDadurian/binance_bot/issues"
+  },
+  "homepage": "https://github.com/michaelDadurian/binance_bot#readme",
+  "dependencies": {
+    "binance-api-node": "^0.7.6"
+  }
+}
